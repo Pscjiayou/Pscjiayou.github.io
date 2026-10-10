@@ -24,28 +24,10 @@ redirect_from:
 
 See the PDF above for project details and contributions.
 
-## Publications and manuscripts
-
-{% for post in site.publications reversed %}
-<p>{{ post.citation }}</p>
-{% endfor %}
-
-## Teaching experience
-
-{% for post in site.teaching reversed %}
-<p><strong>{{ post.title }}</strong><br>{{ post.type }}, {{ post.venue }}, {{ post.date | date: "%Y" }}.</p>
-{% endfor %}
-
 ## Honors and awards
 
 At The Chinese University of Hong Kong, Shenzhen:
 
-- Tier 1 Academic Performance Scholarship, highest annual GPA in cohort — 2023.
+- Tier 1 Academic Performance Scholarship, About $12,000 — 2023.
 - Dean's List, awarded three times — 2021–2024.
 - Programming Contest, Third Prize — 2024.
-
-## Technical skills
-
-- **Programming:** Python, C++, R, MATLAB, Bash.
-- **Robotics and machine learning:** PyTorch, Pinocchio, Open3D, Isaac Sim.
-- **Development tools:** Linux, Git, Docker.
