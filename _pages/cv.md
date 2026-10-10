@@ -11,17 +11,18 @@ redirect_from:
 
 ## Education
 
-- **University of Michigan, Ann Arbor** 
-M.S. in Robotics and M.S. in Applied Statistics (Dual Degree)<br>
-August 2024–May 2027 (expected).<br>
-- **The Chinese University of Hong Kong, Shenzhen**
-B.S. in Financial Engineering<br>
-September 2020–May 2024.
+- **University of Michigan, Ann Arbor**<br>
+  M.S. in Robotics and M.S. in Applied Statistics (Dual Degree)<br>
+  August 2024–May 2027 (expected).
+
+- **The Chinese University of Hong Kong, Shenzhen**<br>
+  B.S. in Financial Engineering<br>
+  September 2020–May 2024.
 
 ## Research experience
 
-**Research Assistant, ROAHM Lab, University of Michigan**
-November 2025–present. 
+**Research Assistant, ROAHM Lab, University of Michigan**<br>
+November 2025–present.<br>
 Advisor: Prof. Ram Vasudevan.
 
 - Ambiguity-Aware Garment Perception for Active Manipulation.
