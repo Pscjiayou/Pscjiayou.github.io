@@ -23,10 +23,10 @@ repository               : "Pscjiayou/Pscjiayou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpeg" # Profile photo in /images/
+  avatar           : "head_shot.jpeg" # Profile photo in /images/
   name             : "Shicheng Peng"
   pronouns         : "He/him"
-  bio              : # Short biography for the left-hand sidebar
+  bio              : "Master's student in Robotics and Applied Statistics. Researching object modeling and active perception."
   location         : "Ann Arbor, U.S."
   employer         : "University of Michigan, Ann Arbor"
   uri              : # URL
