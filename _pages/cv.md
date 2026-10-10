@@ -11,16 +11,22 @@ redirect_from:
 
 ## Education
 
-- **University of Michigan, Ann Arbor** — M.S. in Robotics and M.S. in Applied Statistics (Dual Degree), August 2024–May 2027 (expected). GPA: 4.0/4.0.
-- **The Chinese University of Hong Kong, Shenzhen** — B.S. in Financial Engineering, September 2020–May 2024. GPA: 3.8/4.0 (top 5%).
+- **University of Michigan, Ann Arbor** 
+M.S. in Robotics and M.S. in Applied Statistics (Dual Degree)
+August 2024–May 2027 (expected).
+- **The Chinese University of Hong Kong, Shenzhen**
+B.S. in Financial Engineering
+September 2020–May 2024.
 
 ## Research experience
 
-**Research Assistant, ROAHM Lab, University of Michigan** — November 2025–present. Advisor: Prof. Ram Vasudevan.
+**Research Assistant, ROAHM Lab, University of Michigan**
+November 2025–present. 
+Advisor: Prof. Ram Vasudevan.
 
-- Ambiguity-Aware Garment Perception for Active Manipulation — September 2026–present.
-- DiffADMM: Differentiable Cloth Simulation — May 2026–present.
-- DEFT: Modeling and Simulation of Branched Deformable Linear Objects — November 2025–May 2026.
+- Ambiguity-Aware Garment Perception for Active Manipulation.
+- DiffADMM: Differentiable Cloth Simulation.
+- DEFT: Modeling and Simulation of Branched Deformable Linear Objects.
 
 See the PDF above for project details and contributions.
 
@@ -28,6 +34,6 @@ See the PDF above for project details and contributions.
 
 At The Chinese University of Hong Kong, Shenzhen:
 
-- Tier 1 Academic Performance Scholarship, About $12,000 — 2023.
-- Dean's List, awarded three times — 2021–2024.
-- Programming Contest, Third Prize — 2024.
+- 2024 Tier 1 Academic Performance Scholarship, About $12,000.
+- 2021-2024 Dean's List, awarded three times.
+- 2024 Programming Contest, Third Prize.
