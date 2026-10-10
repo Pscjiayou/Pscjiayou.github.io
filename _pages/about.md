@@ -15,6 +15,6 @@ At ROAHM Lab, I investigate ambiguity in garment reconstruction and how it can i
 
 Before joining Michigan, I received my B.S. in Financial Engineering from The Chinese University of Hong Kong, Shenzhen, in 2024.
 
-_I am seeking PhD opportunities starting in Fall 2027. If my research interests align with your group's work, please feel free to [contact me](mailto:{{ site.author.email }})._
+_*I am seeking PhD opportunities starting in Fall 2027. If my research interests align with your group's work, please feel free to [contact me](mailto:{{ site.author.email }})._
 
 [CV (PDF)]({{ '/files/Shicheng_CV_academy.pdf' | relative_url }}) · [Email](mailto:{{ site.author.email }}) · [Google Scholar]({{ site.author.googlescholar }}) · [GitHub](https://github.com/{{ site.author.github }})
