@@ -7,58 +7,45 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my academic CV (PDF)]({{ '/files/Shicheng_CV_academy.pdf' | relative_url }})
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **University of Michigan, Ann Arbor** — M.S. in Robotics and M.S. in Applied Statistics (Dual Degree), August 2024–May 2027 (expected). GPA: 4.0/4.0.
+- **The Chinese University of Hong Kong, Shenzhen** — B.S. in Financial Engineering, September 2020–May 2024. GPA: 3.8/4.0 (top 5%).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Research Assistant, ROAHM Lab, University of Michigan** — November 2025–present. Advisor: Prof. Ram Vasudevan.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Ambiguity-Aware Garment Perception for Active Manipulation — September 2026–present.
+- DiffADMM: Differentiable Cloth Simulation — May 2026–present.
+- DEFT: Modeling and Simulation of Branched Deformable Linear Objects — November 2025–May 2026.
+
+See the PDF above for project details and contributions.
+
+## Publications and manuscripts
+
+{% for post in site.publications reversed %}
+<p>{{ post.citation }}</p>
+{% endfor %}
+
+## Teaching experience
+
+{% for post in site.teaching reversed %}
+<p><strong>{{ post.title }}</strong><br>{{ post.type }}, {{ post.venue }}, {{ post.date | date: "%Y" }}.</p>
+{% endfor %}
+
+## Honors and awards
+
+At The Chinese University of Hong Kong, Shenzhen:
+
+- Tier 1 Academic Performance Scholarship, highest annual GPA in cohort — 2023.
+- Dean's List, awarded three times — 2021–2024.
+- Programming Contest, Third Prize — 2024.
+
+## Technical skills
+
+- **Programming:** Python, C++, R, MATLAB, Bash.
+- **Robotics and machine learning:** PyTorch, Pinocchio, Open3D, Isaac Sim.
+- **Development tools:** Linux, Git, Docker.
