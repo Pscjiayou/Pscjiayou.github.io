@@ -12,10 +12,10 @@ redirect_from:
 ## Education
 
 - **University of Michigan, Ann Arbor** 
-M.S. in Robotics and M.S. in Applied Statistics (Dual Degree)
-August 2024–May 2027 (expected).
+M.S. in Robotics and M.S. in Applied Statistics (Dual Degree)<br>
+August 2024–May 2027 (expected).<br>
 - **The Chinese University of Hong Kong, Shenzhen**
-B.S. in Financial Engineering
+B.S. in Financial Engineering<br>
 September 2020–May 2024.
 
 ## Research experience
