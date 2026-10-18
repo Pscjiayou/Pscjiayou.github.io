@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing a dual master's degree in Robotics and Applied Statistics at the University of Michigan, Ann Arbor. As a research assistant in the [ROAHM Lab](https://www.roahmlab.com/), I am fortunate to be advised by [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal) and to collaborate with [Yizhou Chen](https://yizhouchen7045.github.io/).
+I am pursuing a dual master's degree in Robotics and Applied Statistics at the University of Michigan, Ann Arbor. As a research assistant in [ROAHM Lab](https://www.roahmlab.com/), I am fortunate to be advised by [Prof. Ram Vasudevan](https://www.roahmlab.com/ram-personal) and to collaborate with [Yizhou Chen](https://yizhouchen7045.github.io/).
 
-My research interests lie in **simulation and active perception**. I aim to develop object representations that capture a robot's uncertainty and guide actions to gather information relevant to a task. My current work focuses on perception and modeling of deformable objects, including garments, cloth, and branched deformable linear objects.
+My interest lies in developing robots that can recognize uncertainty and choose actions to make subsequent perception and manipulation more reliable, transforming complex situations into manageable states within their capabilities.
 
-At ROAHM Lab, I investigate ambiguity in garment reconstruction and how it can inform active perception. I also work on real time differentiable cloth simulation, with contributions to computational efficiency and gradient correctness. Previously, I contributed to simulation and real-robot evaluations for DEFT, a framework for modeling branched deformable linear objects.
+At ROAHM Lab, I investigate ambiguity in garment reconstruction and how it can inform active perception. I also work on real time differentiable cloth simulation. Previously, I contributed to simulation and real-robot evaluations for DEFT, a framework for modeling branched deformable linear objects.
 
 Before joining Michigan, I received my B.S. in Financial Engineering from The Chinese University of Hong Kong, Shenzhen, in 2024.
 

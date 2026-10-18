@@ -1,7 +1,7 @@
 ---
 title: "CSC 3100: Data Structures"
 collection: teaching
-type: "Teaching Assistant Helper"
+type: "Peer Tutor"
 permalink: /teaching/data-structures/
 venue: "The Chinese University of Hong Kong, Shenzhen"
 date: 2024-01-01 # Year from CV; January 1 is used only for sorting.
